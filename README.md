@@ -42,3 +42,19 @@ phase 2
 
 phase 3
 - fancy algos (gradient descent, gaussian density filtering, ...)
+
+
+
+Ant Colony
+====
+
+Inspired by Rollings and Morris' book 2004 on game design.
+The player interacts with a colony of ants by influencing the actions of some individuals 
+or sending macro events (food, predator, rain). 
+The player does NOT build the ant colony, but rather simply interacts with the simulation in interesting ways.
+
+The colony starts with ~50 ants. 
+The player gains new ways to interact with the colony when the population reaches thresholds.
+For example, at 1k ants the player can start using a landslide, and at 100k an anteater.  
+
+Neural networks and genetic algorithms?
