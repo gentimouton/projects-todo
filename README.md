@@ -58,3 +58,10 @@ The player gains new ways to interact with the colony when the population reache
 For example, at 1k ants the player can start using a landslide, and at 100k an anteater.  
 
 Neural networks and genetic algorithms?
+
+
+
+Mandelrian
+===
+
+Fractals of Mondrian, like http://kottke.org/11/02/fractal-mondrian
