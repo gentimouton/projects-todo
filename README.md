@@ -64,4 +64,11 @@ Neural networks and genetic algorithms?
 Mandelrian
 ===
 
-Fractals of Mondrian, like http://kottke.org/11/02/fractal-mondrian
+Mandelbrot Fractals of Mondrian, like http://kottke.org/11/02/fractal-mondrian
+
+
+
+Raspberry Pi
+====
+
+http://www.raspberrypi.org/faqs
