@@ -81,3 +81,9 @@ Game engine using Oryx sprites
 http://forums.tigsource.com/index.php?topic=8834.0
 http://forums.tigsource.com/index.php?topic=8970.0
 http://forums.tigsource.com/index.php?topic=9147.0
+
+
+FTL clone with ronin samurai instead of spaceship
+====
+http://www.ftlgame.com/
+Replace fuel by food, sectors by provinces, beacons by villages, missile-launchers by bows, lasers by swords.
