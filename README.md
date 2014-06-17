@@ -94,4 +94,6 @@ REST multiplayer game using ncurses
 
 See this list. http://www.use-strict.de/list-of-cool-ncurses-games.html
 
+https://www.youtube.com/watch?v=FZH4qbIxpx4
+
 Multiplayer: REST would probably work well for games like Drug Wars, Travian, or Football Manager. 
