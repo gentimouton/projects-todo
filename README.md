@@ -87,3 +87,11 @@ FTL clone with ronin samurai instead of spaceship
 ====
 http://www.ftlgame.com/
 Replace fuel by food, sectors by provinces, beacons by villages, missile-launchers by bows, lasers by swords.
+
+
+REST multiplayer game using ncurses
+====
+
+See this list. http://www.use-strict.de/list-of-cool-ncurses-games.html
+
+Multiplayer: REST would probably work well for games like Drug Wars, Travian, or Football Manager. 
