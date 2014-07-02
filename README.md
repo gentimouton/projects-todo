@@ -106,9 +106,15 @@ Get a bounty for a monster, kill that monster, receive bounty reward, improve ge
 Each monster has a particular behavior, eg a crab moves sideways and can only be attacked from behind.
 Maybe the code from crowd-control could work for that.
 
+
+Map generator
+===
+
+Like Diablo or roguelike games. Maps are made of at most 10 blocks of 50x50 cells. Each block can have up to 4 gates, eg a North gate is a hole from 24,0 to 25,0, and the rest of row 0 are walls. Each block must have at least one gate. Blocks can be hand-made or generated. There must be exactly 3 blocks between the Start and Finish blocks.
+
+
 Driving item-game
 ===
 
 Drive any kind of vehicle (car, motorcycle, tank, ...). Core gameplay: Mario Kart driving. Long-term gameplay: item game, reuse and salvage parts from other vehicles for improvements to your own. Item game similar to D3 or Plundernauts.
-
 
