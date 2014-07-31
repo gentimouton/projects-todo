@@ -89,7 +89,7 @@ http://www.ftlgame.com/
 Replace fuel by food, sectors by provinces, beacons by villages, missile-launchers by bows, lasers by swords.
 
 
-Abbey Manager: REST multiplayer management game using ncurses
+Abbey Manager: REST multiplayer management game using ncurses or tkinter
 ====
 
 - ncurses: See this list. http://www.use-strict.de/list-of-cool-ncurses-games.html and Curse of War https://www.youtube.com/watch?v=FZH4qbIxpx4
