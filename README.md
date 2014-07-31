@@ -89,14 +89,13 @@ http://www.ftlgame.com/
 Replace fuel by food, sectors by provinces, beacons by villages, missile-launchers by bows, lasers by swords.
 
 
-REST multiplayer game using ncurses
+Abbey Manager: REST multiplayer management game using ncurses
 ====
 
-See this list. http://www.use-strict.de/list-of-cool-ncurses-games.html
+- ncurses: See this list. http://www.use-strict.de/list-of-cool-ncurses-games.html and Curse of War https://www.youtube.com/watch?v=FZH4qbIxpx4
+- REST would probably work well for multiplayer games like Drug Wars, Travian, or Football Manager: no real-time interactions, slow gameplay at the scale of hours or days, not seconds.
+- theme: the abbey of The Name of the Rose. You are a 14th-century abbot, managing an abbey of 60 monks and 150 servants, with a library, infirmary, church, smithy, brewery, etc. Quotes from the book, p39-41: "it has more books than any other Christian library", "your abbey is theo nly light that Christianity can oppose to the thirty-six libraries of Baghdad", "many of the monks living in your midst come from other abbeys scattered all over the world. Some stay here a short time, to copy manuscripts to be found nowhere else, not without having brought you some manuscript or great rarity in exchange. Others stay here for a very long time because only here can they find the works that enlighten their research.", "Only the librarian knows where to find a book in the labyrinth of the library, which truths and falsehoods it contains, and who should or should not read it."
 
-https://www.youtube.com/watch?v=FZH4qbIxpx4
-
-Multiplayer: REST would probably work well for games like Drug Wars, Travian, or Football Manager. 
 
 
 Shadow of the Colossus/Monster Hunter in 2D
