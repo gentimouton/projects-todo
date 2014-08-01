@@ -127,4 +127,4 @@ Drive any kind of vehicle (car, motorcycle, tank, ...). Core gameplay: Mario Kar
 Stories for data scientists
 ===
 
-Instead of sentences, give data.
+Instead of sentences, give data. Both can tell stories equally well. Both can have bias and be interpreted differently by different readers.
