@@ -20,7 +20,7 @@ Features:
 RAMM
 ====
 
-Ranker and Match-Maker, based on bots. Purpose: try different MM and ranking algos, unit-testing, and load-testing
+Ranker And Match-Maker, based on bots. Purpose: try different MM and ranking algos, unit-testing, and load-testing
 
 phase 1
 - players are simulated by bots
@@ -32,13 +32,11 @@ phase 1
 - one match per bot per day
 - simple algos
 
-
 phase 2 
 - skill improves over the days
 - different skill stdev
 - ELO
 - take into acount the scores (score of 10 to 1 vs score of 5 to 4)
-
 
 phase 3
 - fancy algos (gradient descent, gaussian density filtering, ...)
@@ -52,6 +50,7 @@ Inspired by Rollings and Morris' book 2004 on game design.
 The player interacts with a colony of ants by influencing the actions of some individuals 
 or sending macro events (food, predator, rain). 
 The player does NOT build the ant colony, but rather simply interacts with the simulation in interesting ways.
+Similar to Sand Kings from George R. R. Martin.
 
 The colony starts with ~50 ants. 
 The player gains new ways to interact with the colony when the population reaches thresholds.
