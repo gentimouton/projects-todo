@@ -98,6 +98,7 @@ Abbey Manager: REST multiplayer management game using ncurses or tkinter
 - theme: the abbey of The Name of the Rose. You are a 14th-century abbot, managing an abbey of 60 monks and 150 servants, with a library, infirmary, church, smithy, brewery, etc. Quotes from the book, p39-41: "it has more books than any other Christian library", "your abbey is theo nly light that Christianity can oppose to the thirty-six libraries of Baghdad", "many of the monks living in your midst come from other abbeys scattered all over the world. Some stay here a short time, to copy manuscripts to be found nowhere else, not without having brought you some manuscript or great rarity in exchange. Others stay here for a very long time because only here can they find the works that enlighten their research.", "Only the librarian knows where to find a book in the labyrinth of the library, which truths and falsehoods it contains, and who should or should not read it."
 - Could have time-based mechanics. 
 - Farmville meets Agricola: resource production more customizable/complex than Farmville, synergies within your resource productions and consumptions more abundant than in Agricola.
+- abbey = church + university + inn. Currencies = piety + knowledge + coins
 
 
 Shadow of the Colossus/Monster Hunter in 2D
@@ -134,3 +135,15 @@ Stories for data scientists
 ===
 
 Instead of sentences, give data. Both can tell stories equally well. Both can have bias and be interpreted differently by different readers.
+
+
+Psychology for game designers
+===
+
+a book
+
+
+Game theory for game designers
+===
+
+a book
