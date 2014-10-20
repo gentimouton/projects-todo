@@ -100,7 +100,10 @@ Abbey Manager: REST multiplayer management game using ncurses or tkinter
 - Farmville meets Agricola: resource production more customizable/complex than Farmville, synergies within your resource productions and consumptions more abundant than in Agricola.
 - Abbey = inn + church + library. Thus 3 currencies. 1) Each transaction happening inside the inn generates gold. Selling veggies or animals brings gold too. Gold is spent on new buildings, seeds, animals, and relics. Use gold to buy favors from the King (eg mercenaries/militia to protect from thugs and beasts). 2) Pious monks praying in the church generate piety. Abbey piety cap is the sum of the praying monks' piety. Piety decreases and increases slowly (whether below or above cap). The Pope can sanctify very pious monks or send Inquisitors against those he considers heretics. 3) Knowledge is acquired by copying books, storing them in library, and adequately hosting scholars from the entire world. The more erudite your abbey, the more your Order will direct scholars to visit it.
 - Overall, the King prefers an abbey that is rich (and skeptic), the Pope pious (and ignorant), and the Order erudite (and poor). The King hates the Order which hates the Pope who hates the King.
-- Orders include Cluniac, Cistercian, Trappist, Benedictine, Carthusian, Augstinian, and Carmelite. Each Order has pros and cons.
+- Friars vs monks vs nuns vs ... http://en.wikipedia.org/wiki/Category:Ecclesiastical_titles
+- Each Order has particular rules and tradeoffs: Benedict (respect of the hierarchy), August (mendicants), Albert (= the Carmelite mendicants), Franciscans (minority and penance), Cistercian (manual labour and self-sufficiency), Trappist, Carthusian, Pachomius, Cluniac, ...
+
+
 
 
 
