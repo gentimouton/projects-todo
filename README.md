@@ -4,7 +4,7 @@ mogtools
 ========
 
 Tools for multiplayer online games.
-Similar to DirectPlay, but for non-Windows platforms.
+Similar to DirectPlay, but LGPL and cross-platform.
 http://msdn.microsoft.com/en-us/library/windows/desktop/bb153243%28v=vs.85%29.aspx
 
 Features:
@@ -43,22 +43,6 @@ phase 3
 
 
 
-Ant Colony
-====
-
-Inspired by Rollings and Morris' book 2004 on game design.
-The player interacts with a colony of ants by influencing the actions of some individuals 
-or sending macro events (food, predator, rain). 
-The player does NOT build the ant colony, but rather simply interacts with the simulation in interesting ways.
-Similar to Sand Kings from George R. R. Martin.
-
-The colony starts with ~50 ants. 
-The player gains new ways to interact with the colony when the population reaches thresholds.
-For example, at 1k ants the player can start using a landslide, and at 100k an anteater.  
-
-Neural networks and genetic algorithms?
-
-
 
 Mandelbrot, Mandala, and Mondrian
 ===
@@ -80,8 +64,11 @@ Game engine using Oryx sprites
 ====
 
 http://forums.tigsource.com/index.php?topic=8834.0
+
 http://forums.tigsource.com/index.php?topic=8970.0
+
 http://forums.tigsource.com/index.php?topic=9147.0
+
 
 
 FTL clone with ronin samurai instead of spaceship
@@ -106,14 +93,13 @@ Abbey Manager: REST multiplayer management game using ncurses or tkinter
 
 
 
-
-
 Shadow of the Colossus/Monster Hunter in 2D
 ===
 
-Get a bounty for a monster, kill that monster, receive bounty reward, improve gear, get higher bounty, repeat.
-Each monster has a particular behavior, eg a crab moves sideways and can only be attacked from behind.
-Maybe the code from crowd-control could work for that.
+- Get a bounty for a monster, kill that monster, receive bounty reward, improve gear, get higher bounty, repeat.
+- Each monster has a particular behavior, eg a crab moves sideways and can only be attacked from behind.
+- Top-down graphics like old Zelda. Maybe the code from crowd-control could work for that. 
+
 
 
 Map generator
@@ -121,7 +107,7 @@ Map generator
 
 Like Diablo or roguelike games. Maps are made of at most 10 blocks of 50x50 cells. Each block can have up to 4 gates, eg a North gate is a hole from 24,0 to 25,0, and the rest of row 0 are walls. Each block must have at least one gate. Blocks can be hand-made or generated. There must be exactly 3 blocks between the Start and Finish blocks.
 
-Check Adventures in Level Design from Joris Dormans, PCG workshop from FDG, and Automatic Generation of Dungeons
+Check: Adventures in Level Design from Joris Dormans, PCG workshop from FDG, and Automatic Generation of Dungeons
 for Computer Games from David Adams.
 
 
@@ -132,6 +118,7 @@ Midi music generator
 Using the pygame midi module.
 To generate Bach-like melodies, learn markov chains from all Bach sonatas. Each markov state is a tuple (pitch, duration). Learn one chain for major scales, and one for minor scales. See http://en.wikipedia.org/wiki/Markov_chain#Music
 
+
 Driving item-game
 ===
 
@@ -140,7 +127,7 @@ Drive any kind of vehicle (car, motorcycle, tank, ...). Core gameplay: Mario Kar
 
 Builder/assembler item-game
 ===
-Building a complex system (computer, car, boat) from hardware parts requires knowledge of constraints, synergies, and co-requirements. Theme: you own a shop where customers want to buy a system with particular features (eg latest graphics card or low power consumption). Core loop: optimize a build by selecting the best/cheapest parts that synergize well. Like http://pcpartpicker.com. Long loop: make profits from selling systems, unlock new parts from manufacturers, gain a customer rep (eg super cheap but often breaks, great customer service but overpriced), and gain manufacturer rep (sell Nvidia and AMD won't talk to you).
+Building a complex system (computer, car, boat) from hardware parts requires knowledge of constraints, synergies, and co-requirements. Theme: you own a shop where customers want to buy a system with particular features (eg latest graphics card or low power consumption). Core loop: optimize a build by selecting the best/cheapest parts that synergize well. Like http://pcpartpicker.com. Could add an auction house to it. Long loop: make profits from selling systems, unlock new parts from manufacturers, gain a customer rep (eg super cheap but often breaks, great customer service but overpriced), and gain manufacturer rep (sell Nvidia and AMD won't talk to you).
 
 
 Stories for data scientists
