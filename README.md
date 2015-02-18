@@ -146,3 +146,9 @@ Game theory for game designers
 ===
 
 a book
+
+
+Machine Learning tutorials
+===
+
+Explain the basic idea of each algorithm. Give R code. Provide examples where each works best, and where each sucks. Check Max Welling's slides. http://www.ics.uci.edu/~welling/teaching/ICS273Afall11/ICS273Afall11.html
