@@ -77,7 +77,7 @@ http://www.ftlgame.com/
 Replace fuel by food, sectors by provinces, beacons by villages, missile-launchers by bows, lasers by swords.
 
 
-Abbey Manager: REST multiplayer management game using ncurses or tkinter
+Abbey Manager: REST multiplayer management game using ncurses or tkinter or bootstrap
 ====
 
 - ncurses: See this list. http://www.use-strict.de/list-of-cool-ncurses-games.html and Curse of War https://www.youtube.com/watch?v=FZH4qbIxpx4
@@ -89,7 +89,7 @@ Abbey Manager: REST multiplayer management game using ncurses or tkinter
 - Overall, the King prefers an abbey that is rich (and skeptic), the Pope pious (and ignorant), and the Order erudite (and poor). The King hates the Order which hates the Pope who hates the King.
 - Friars vs monks vs nuns vs ... http://en.wikipedia.org/wiki/Category:Ecclesiastical_titles
 - Each Order has particular rules and tradeoffs: Benedict (respect of the hierarchy), August (mendicants), Albert (= the Carmelite mendicants), Franciscans (minority and penance), Cistercian (manual labour and self-sufficiency), Trappist, Carthusian, Pachomius, Cluniac, ...
-
+- http://getbootstrap.com/getting-started/
 
 
 
