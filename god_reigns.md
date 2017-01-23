@@ -20,3 +20,6 @@ Each god has 1 or more functions.
 * nature: 1) animals (wandering cats, birds, kraken), 2) weather (season, storm, sea), 3) time (night/day).
 * interactions: 1) possess an oracle (Pythia), 2) take human form, charm a woman, and make a semigod doing deeds generating fame for you (Zeus: Hercules), 
 * professions: smiths, prostitutes, politicians, warriors
+
+### See also
+* [greek gods chart](https://ludios.org/greekgods/greek-tree-full.png)
