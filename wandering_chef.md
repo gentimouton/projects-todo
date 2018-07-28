@@ -2,7 +2,7 @@ Wandering chef idle game
 ===
 
 Traveling salesman, but with a food truck.
-Inspired by [Tiny Rails](https://itunes.apple.com/us/app/tiny-rails/id1159072426?mt=8).
+
 
 Dishes cooked depend on ingredients in truck, and patrons' orders.
 * Fish and Chips = Fish + Potatoes (frier is included in truck).
@@ -21,3 +21,6 @@ When AFK, the food truck's chef cooks food for people in a city. And makes money
 
 Best money is made when traveling to other cities and making dishes in high demand, not idle-playing. 
 Plus, stocks run out eventually.
+
+Similar to Fortune Winds: Ancient Trader.
+Inspired by [Tiny Rails](https://itunes.apple.com/us/app/tiny-rails/id1159072426?mt=8).
